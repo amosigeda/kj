@@ -1,0 +1,10 @@
+2018-07-10 15:06:23,002 [main] INFO  SocketServer - AC921 begin start successful !!!
+2018-07-10 15:06:23,143 [main] INFO  SocketServer - ===start socket:7780
+2018-07-10 15:06:34,059 [nioEventLoopGroup-3-1] INFO  BaseChannelHandler - add connect:/127.0.0.1:56563
+2018-07-10 15:06:34,060 [nioEventLoopGroup-3-1] INFO  BaseChannelHandler - channelActive:/127.0.0.1:56563ÔÚÏß
+2018-07-10 15:06:39,671 [nioEventLoopGroup-3-1] INFO  BaseChannelHandler - channelInactive:/127.0.0.1:56563µôÏß
+2018-07-10 15:06:39,672 [nioEventLoopGroup-3-1] INFO  BaseChannelHandler - remove connect:/127.0.0.1:56563
+2018-07-10 17:08:27,430 [nioEventLoopGroup-2-1] WARN  NioEventLoop - Selector.select() returned prematurely 512 times in a row; rebuilding Selector sun.nio.ch.WindowsSelectorImpl@fe6fbc2.
+2018-07-10 17:08:27,435 [nioEventLoopGroup-2-1] INFO  NioEventLoop - Migrated 1 channel(s) to the new Selector.
+2018-07-10 17:08:37,654 [nioEventLoopGroup-3-1] WARN  NioEventLoop - Selector.select() returned prematurely 512 times in a row; rebuilding Selector sun.nio.ch.WindowsSelectorImpl@4f41cecc.
+2018-07-10 17:08:37,661 [nioEventLoopGroup-3-1] INFO  NioEventLoop - Migrated 0 channel(s) to the new Selector.
